@@ -1,0 +1,22 @@
+# Node.js Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+
+# Logs & Cache
+logs/
+*.log
+debug.log
+.vscode/
+.DS_Store
+
+# Build Files
+dist/
+build/
+
+# Miscellaneous
+coverage/
+
